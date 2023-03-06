@@ -1,0 +1,2 @@
+# Usage
+USDBMusicScraper-1.jar FILENAME TIME_TO_WAIT_IN_SECS
